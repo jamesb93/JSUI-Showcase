@@ -9,3 +9,4 @@ The legendary [JSUI MGraphics patch a day from Darwin Grosse](https://cycling74.
 - [Scala Tuning Explorer | Timo Hoogland](https://github.com/tmhglnd/th.scala)
 - [Analog Style Knob | Philip Meyer](https://github.com/pdmeyer/JSUI-Analog-Knob/tree/main)
 - [No Code Knob Creation Tool | Neil Baldwin](https://github.com/neilbaldwin/JSUI_UN_KNOB)
+- [Lode Max for Live device & framework | Fors](https://github.com/fors-fm/lode)
