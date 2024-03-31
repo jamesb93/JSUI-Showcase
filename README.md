@@ -10,4 +10,4 @@ The legendary [JSUI MGraphics patch a day from Darwin Grosse](https://cycling74.
 - [Analog Style Knob | Philip Meyer](https://github.com/pdmeyer/JSUI-Analog-Knob/tree/main)
 - [No Code Knob Creation Tool | Neil Baldwin](https://github.com/neilbaldwin/JSUI_UN_KNOB)
 - [Lode Max for Live device & framework | Fors](https://github.com/fors-fm/lode)
-- [Image Usage for Complex UI | Tyler Mazaika](https://github.com/tylermazaika/mgraphics-examples/tree/main)
+- [Image Upscaling | Tyler Mazaika](https://github.com/tylermazaika/mgraphics-examples/tree/main)
