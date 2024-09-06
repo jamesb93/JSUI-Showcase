@@ -11,3 +11,4 @@ The legendary [JSUI MGraphics patch a day from Darwin Grosse](https://cycling74.
 - [No Code Knob Creation Tool | Neil Baldwin](https://github.com/neilbaldwin/JSUI_UN_KNOB)
 - [Lode Max for Live device & framework | Fors](https://github.com/fors-fm/lode)
 - [Image Upscaling | Tyler Mazaika](https://github.com/tylermazaika/mgraphics-examples/tree/main)
+- [tc.preset | Théophile Clet](https://github.com/Teufeuleu/tc.preset)
